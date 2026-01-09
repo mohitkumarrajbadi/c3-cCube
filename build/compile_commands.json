@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/mohitbadi/Downloads/Projects/c3-cCube/build",
+  "command": "/usr/bin/clang++ -Dc3_EXPORTS -I/Users/mohitbadi/Downloads/Projects/c3-cCube/bindings/python/../../core -isystem /opt/homebrew/include -isystem /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/include/python3.9 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/c3.dir/c3_pybind.cpp.o -c /Users/mohitbadi/Downloads/Projects/c3-cCube/bindings/python/c3_pybind.cpp",
+  "file": "/Users/mohitbadi/Downloads/Projects/c3-cCube/bindings/python/c3_pybind.cpp",
+  "output": "CMakeFiles/c3.dir/c3_pybind.cpp.o"
+},
+{
+  "directory": "/Users/mohitbadi/Downloads/Projects/c3-cCube/build",
+  "command": "/usr/bin/clang++ -Dc3_EXPORTS -I/Users/mohitbadi/Downloads/Projects/c3-cCube/bindings/python/../../core -isystem /opt/homebrew/include -isystem /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/include/python3.9 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/context/context.cpp.o -c /Users/mohitbadi/Downloads/Projects/c3-cCube/core/context/context.cpp",
+  "file": "/Users/mohitbadi/Downloads/Projects/c3-cCube/core/context/context.cpp",
+  "output": "CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/context/context.cpp.o"
+},
+{
+  "directory": "/Users/mohitbadi/Downloads/Projects/c3-cCube/build",
+  "command": "/usr/bin/clang++ -Dc3_EXPORTS -I/Users/mohitbadi/Downloads/Projects/c3-cCube/bindings/python/../../core -isystem /opt/homebrew/include -isystem /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/include/python3.9 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/store/store.cpp.o -c /Users/mohitbadi/Downloads/Projects/c3-cCube/core/store/store.cpp",
+  "file": "/Users/mohitbadi/Downloads/Projects/c3-cCube/core/store/store.cpp",
+  "output": "CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/store/store.cpp.o"
+},
+{
+  "directory": "/Users/mohitbadi/Downloads/Projects/c3-cCube/build",
+  "command": "/usr/bin/clang++ -Dc3_EXPORTS -I/Users/mohitbadi/Downloads/Projects/c3-cCube/bindings/python/../../core -isystem /opt/homebrew/include -isystem /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/include/python3.9 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/recall/recall.cpp.o -c /Users/mohitbadi/Downloads/Projects/c3-cCube/core/recall/recall.cpp",
+  "file": "/Users/mohitbadi/Downloads/Projects/c3-cCube/core/recall/recall.cpp",
+  "output": "CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/recall/recall.cpp.o"
+},
+{
+  "directory": "/Users/mohitbadi/Downloads/Projects/c3-cCube/build",
+  "command": "/usr/bin/clang++ -Dc3_EXPORTS -I/Users/mohitbadi/Downloads/Projects/c3-cCube/bindings/python/../../core -isystem /opt/homebrew/include -isystem /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/include/python3.9 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/update/update.cpp.o -c /Users/mohitbadi/Downloads/Projects/c3-cCube/core/update/update.cpp",
+  "file": "/Users/mohitbadi/Downloads/Projects/c3-cCube/core/update/update.cpp",
+  "output": "CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/update/update.cpp.o"
+},
+{
+  "directory": "/Users/mohitbadi/Downloads/Projects/c3-cCube/build",
+  "command": "/usr/bin/clang++ -Dc3_EXPORTS -I/Users/mohitbadi/Downloads/Projects/c3-cCube/bindings/python/../../core -isystem /opt/homebrew/include -isystem /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/include/python3.9 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/prune/prune.cpp.o -c /Users/mohitbadi/Downloads/Projects/c3-cCube/core/prune/prune.cpp",
+  "file": "/Users/mohitbadi/Downloads/Projects/c3-cCube/core/prune/prune.cpp",
+  "output": "CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/prune/prune.cpp.o"
+},
+{
+  "directory": "/Users/mohitbadi/Downloads/Projects/c3-cCube/build",
+  "command": "/usr/bin/clang++ -Dc3_EXPORTS -I/Users/mohitbadi/Downloads/Projects/c3-cCube/bindings/python/../../core -isystem /opt/homebrew/include -isystem /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/include/python3.9 -g -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/memory/memory.cpp.o -c /Users/mohitbadi/Downloads/Projects/c3-cCube/core/memory/memory.cpp",
+  "file": "/Users/mohitbadi/Downloads/Projects/c3-cCube/core/memory/memory.cpp",
+  "output": "CMakeFiles/c3.dir/Users/mohitbadi/Downloads/Projects/c3-cCube/core/memory/memory.cpp.o"
+}
+]
